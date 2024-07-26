@@ -45,7 +45,7 @@ Displays bar and pie charts using Chart.js to represent the population and GDP d
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/geopolitical-visualization-app.git
+   git clone https://github.com/yourusername/Astraeus-Technologies-Pvt.-Ltd..git
 Navigate to the project directory:
 
 cd geopolitical-visualization-app
